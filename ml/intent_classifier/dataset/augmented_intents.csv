@@ -1,0 +1,513 @@
+text,intent
+open youtube,open_app
+open youtube please,open_app
+open youtube now,open_app
+launch youtube,open_app
+please launch youtube,open_app
+play youtube,open_app
+i want to play youtube,open_app
+just play youtube,open_app
+please youtube open,open_app
+i want to open youtube please,open_app
+hey open youtube please,open_app
+can you open youtube,open_app
+open you can youtube,open_app
+youtube you open can,open_app
+can you open youtube now,open_app
+start youtube,open_app
+i want to start youtube,open_app
+start youtube quickly,open_app
+go to youtube,open_app
+go to youtube right now,open_app
+go youtube to,open_app
+could you go to youtube,open_app
+open youtube for me,open_app
+open me for youtube,open_app
+could you open youtube for me,open_app
+i want to watch youtube,open_app
+i watch to want youtube,open_app
+please i want to watch youtube,open_app
+want to watch youtube,open_app
+take me to youtube,open_app
+take me to youtube right now,open_app
+take me youtube,open_app
+i want to take me to youtube,open_app
+play a video,play_video
+play a video right now,play_video
+just play a video,play_video
+play a video quickly,play_video
+play some video,play_video
+just play some video,play_video
+play some,play_video
+play a youtube video,play_video
+just play a youtube video,play_video
+play a youtube video quickly,play_video
+play youtube video,play_video
+play video please,play_video
+play video please please,play_video
+play please video,play_video
+play video,play_video
+i want to watch a video,play_video
+i a to watch want video,play_video
+could you i want to watch a video,play_video
+i want to a video,play_video
+play something on youtube,play_video
+play something on,play_video
+play something on youtube right now,play_video
+play something youtube on,play_video
+show me a video,play_video
+me a video,play_video
+show video a me,play_video
+a me show video,play_video
+can you play a video,play_video
+video you play a can,play_video
+can you play a video now,play_video
+just can you play a video,play_video
+play any video,play_video
+video any play,play_video
+play video any,play_video
+play any video quickly,play_video
+start playing a video,play_video
+start playing a,play_video
+start playing video,play_video
+start playing a video right now,play_video
+set alarm for 7am,set_alarm
+set alarm for 7am quickly,set_alarm
+i want to set alarm for 7am,set_alarm
+set an alarm,set_alarm
+set alarm,set_alarm
+an alarm,set_alarm
+set an alarm please,set_alarm
+wake me up at 7,set_alarm
+me up at 7,set_alarm
+wake me up at,set_alarm
+wake me up at 7 now,set_alarm
+set alarm 8 am,set_alarm
+set alarm 8 am please,set_alarm
+set alarm am 8,set_alarm
+i want to set alarm 8 am,set_alarm
+alarm at 6 in the morning,set_alarm
+alarm the 6 in at morning,set_alarm
+alarm at 6 in the morning right now,set_alarm
+alarm 6 in the morning,set_alarm
+create an alarm,set_alarm
+alarm an create,set_alarm
+create alarm an,set_alarm
+create an alarm please,set_alarm
+i need an alarm for tomorrow,set_alarm
+i need an alarm for,set_alarm
+i need an alarm tomorrow,set_alarm
+need an alarm for tomorrow,set_alarm
+set morning alarm,set_alarm
+alarm morning set,set_alarm
+please set morning alarm,set_alarm
+set morning,set_alarm
+put alarm for 9,set_alarm
+hey put alarm for 9,set_alarm
+put alarm 9,set_alarm
+put alarm for 9 for me,set_alarm
+remind me to wake up at 7,set_alarm
+remind to wake up at 7,set_alarm
+remind me to wake 7 at up,set_alarm
+to me remind wake up at 7,set_alarm
+remind me to take medicine,medicine_reminder
+remind me to take,medicine_reminder
+remind me to take medicine please,medicine_reminder
+remind to take medicine,medicine_reminder
+medicine reminder please,medicine_reminder
+please reminder medicine,medicine_reminder
+reminder please,medicine_reminder
+medicine reminder please quickly,medicine_reminder
+did i take my medicine,medicine_reminder
+did i my medicine,medicine_reminder
+did i take my medicine for me,medicine_reminder
+when is my medicine,medicine_reminder
+when is my medicine for me,medicine_reminder
+when is my,medicine_reminder
+when my is medicine,medicine_reminder
+medicine time,medicine_reminder
+medicine time for me,medicine_reminder
+remind me about my pills,medicine_reminder
+remind me about my pills quickly,medicine_reminder
+please remind me about my pills,medicine_reminder
+me about my pills,medicine_reminder
+have i taken my medication,medicine_reminder
+have i taken my medication now,medicine_reminder
+have i taken medication,medicine_reminder
+medicine schedule,medicine_reminder
+hey medicine schedule,medicine_reminder
+medicine schedule right now,medicine_reminder
+what time is my medicine,medicine_reminder
+what time is my medicine now,medicine_reminder
+what my is time medicine,medicine_reminder
+what time my medicine,medicine_reminder
+pill reminder,medicine_reminder
+pill reminder quickly,medicine_reminder
+what time is it,check_time
+what it is time,check_time
+what time it is,check_time
+what time is it now,check_time
+tell me the time,check_time
+tell the me time,check_time
+tell time the me,check_time
+tell me the time please,check_time
+current time,check_time
+current time please,check_time
+current time right now,check_time
+what is the time right now,check_time
+hey what is the time right now,check_time
+can you what is the time right now,check_time
+what is the right now,check_time
+can you tell me the time,check_time
+can you tell me the,check_time
+just can you tell me the time,check_time
+can you tell me the time for me,check_time
+time please,check_time
+what time,check_time
+what time right now,check_time
+could you what time,check_time
+what time quickly,check_time
+give me the time,check_time
+give me the time now,check_time
+give me the time right now,check_time
+what's the time,check_time
+what's time,check_time
+could you what's the time,check_time
+what's time the,check_time
+do you know the time,check_time
+do you the know time,check_time
+just do you know the time,check_time
+what is today's date,check_date
+please what is today's date,check_date
+what is today's date quickly,check_date
+tell me the date,check_date
+tell me the date please,check_date
+tell date the me,check_date
+tell me the,check_date
+what day is it,check_date
+could you what day is it,check_date
+please what day is it,check_date
+hey what day is it,check_date
+today's date,check_date
+can you today's date,check_date
+today's date now,check_date
+current date,check_date
+current date for me,check_date
+could you current date,check_date
+what is the date today,check_date
+could you what is the date today,check_date
+what is the today,check_date
+please what is the date today,check_date
+which day is today,check_date
+just which day is today,check_date
+i want to which day is today,check_date
+hey which day is today,check_date
+date please,check_date
+please date please,check_date
+i want to date please,check_date
+tell me today's date,check_date
+tell today's me date,check_date
+today's me tell date,check_date
+tell date today's me,check_date
+what month is it,check_date
+what month is it for me,check_date
+hey what month is it,check_date
+what month is it right now,check_date
+what is the weather,check_weather
+what is the weather right now,check_weather
+what is weather,check_weather
+hey what is the weather,check_weather
+how is the weather today,check_weather
+how is the weather today quickly,check_weather
+how is the weather today right now,check_weather
+please how is the weather today,check_weather
+weather today,check_weather
+weather today now,check_weather
+please weather today,check_weather
+will it rain today,check_weather
+it will rain today,check_weather
+could you will it rain today,check_weather
+is it going to rain,check_weather
+rain it going to is,check_weather
+is it going to rain quickly,check_weather
+is it going rain,check_weather
+what's the weather like,check_weather
+what's the weather like quickly,check_weather
+what's the weather like now,check_weather
+the weather like,check_weather
+tell me the weather,check_weather
+me tell the weather,check_weather
+tell me weather the,check_weather
+how hot is it today,check_weather
+how hot is it today now,check_weather
+it hot is how today,check_weather
+hey how hot is it today,check_weather
+weather forecast,check_weather
+i want to weather forecast,check_weather
+could you weather forecast,check_weather
+is it cold outside,check_weather
+is it cold,check_weather
+outside it cold is,check_weather
+is cold outside,check_weather
+call my daughter,call_contact
+my daughter,call_contact
+call daughter,call_contact
+call daughter my,call_contact
+call my son,call_contact
+son my call,call_contact
+my call son,call_contact
+call son my,call_contact
+make a phone call,call_contact
+make a phone,call_contact
+a phone call,call_contact
+make a phone call please,call_contact
+call family,call_contact
+call family right now,call_contact
+i want to call someone,call_contact
+please i want to call someone,call_contact
+i want to call someone quickly,call_contact
+phone my son,call_contact
+please phone my son,call_contact
+my phone son,call_contact
+phone my son please,call_contact
+call my wife,call_contact
+call my wife now,call_contact
+call my wife for me,call_contact
+just call my wife,call_contact
+dial my daughter,call_contact
+my dial daughter,call_contact
+dial my daughter now,call_contact
+call my brother,call_contact
+my brother,call_contact
+call my brother right now,call_contact
+can you call my brother,call_contact
+contact my family,call_contact
+my family,call_contact
+contact my family quickly,call_contact
+hey contact my family,call_contact
+help,emergency
+help quickly,emergency
+emergency,emergency
+emergency right now,emergency
+just emergency,emergency
+i need help,emergency
+i help,emergency
+i need,emergency
+call for help,emergency
+can you call for help,emergency
+call help,emergency
+for help,emergency
+this is an emergency,emergency
+this is an emergency now,emergency
+this an is emergency,emergency
+i fell down,emergency
+could you i fell down,emergency
+i fell down right now,emergency
+i fell,emergency
+i am not feeling well,emergency
+hey i am not feeling well,emergency
+i not am feeling well,emergency
+i want to i am not feeling well,emergency
+please help me,emergency
+help me,emergency
+please help me quickly,emergency
+please help,emergency
+send help,emergency
+send help right now,emergency
+just send help,emergency
+could you send help,emergency
+i need emergency assistance,emergency
+can you i need emergency assistance,emergency
+i need assistance,emergency
+hey i need emergency assistance,emergency
+play music,play_music
+play music right now,play_music
+play some music,play_music
+play music some,play_music
+i want to play some music,play_music
+some music,play_music
+i want to listen to music,play_music
+i want to music to listen,play_music
+just i want to listen to music,play_music
+i music to listen to want,play_music
+play a song,play_music
+play a,play_music
+song a play,play_music
+could you play a song,play_music
+put on some music,play_music
+put on music,play_music
+on some music,play_music
+put some music,play_music
+start music,play_music
+please start music,play_music
+can you start music,play_music
+play relaxing music,play_music
+just play relaxing music,play_music
+play relaxing,play_music
+can you play music,play_music
+hey can you play music,play_music
+can play you music,play_music
+you play music,play_music
+music please,play_music
+music please quickly,play_music
+music please right now,play_music
+i want to hear music,play_music
+just i want to hear music,play_music
+i want to hear music right now,play_music
+hey i want to hear music,play_music
+do i have internet,check_internet
+hey do i have internet,check_internet
+do i have internet right now,check_internet
+please do i have internet,check_internet
+is internet working,check_internet
+is internet working please,check_internet
+internet is working,check_internet
+i want to is internet working,check_internet
+check my internet,check_internet
+my check internet,check_internet
+check my,check_internet
+check my internet quickly,check_internet
+am i connected,check_internet
+could you am i connected,check_internet
+am connected i,check_internet
+connected i am,check_internet
+is wifi on,check_internet
+wifi is on,check_internet
+can you is wifi on,check_internet
+is wifi on for me,check_internet
+do we have internet connection,check_internet
+do we have connection,check_internet
+hey do we have internet connection,check_internet
+do we have internet,check_internet
+is the internet available,check_internet
+is the internet available for me,check_internet
+is the available,check_internet
+the is internet available,check_internet
+check connection,check_internet
+check connection please,check_internet
+i want to check connection,check_internet
+am i online,check_internet
+am online,check_internet
+am i online right now,check_internet
+hey am i online,check_internet
+internet status,check_internet
+internet status please,check_internet
+set a reminder,set_reminder
+set a,set_reminder
+can you set a reminder,set_reminder
+remind me,set_reminder
+remind me now,set_reminder
+could you remind me,set_reminder
+create a reminder,set_reminder
+create reminder a,set_reminder
+please create a reminder,set_reminder
+i need a reminder,set_reminder
+a need i reminder,set_reminder
+i want to i need a reminder,set_reminder
+please i need a reminder,set_reminder
+set reminder please,set_reminder
+set reminder please now,set_reminder
+reminder set please,set_reminder
+add a reminder,set_reminder
+add reminder,set_reminder
+add a reminder for me,set_reminder
+a add reminder,set_reminder
+remind me later,set_reminder
+remind me later quickly,set_reminder
+me remind later,set_reminder
+can you remind me,set_reminder
+can remind you me,set_reminder
+can you remind me for me,set_reminder
+can me remind you,set_reminder
+put a reminder,set_reminder
+a put reminder,set_reminder
+put a reminder now,set_reminder
+put reminder a,set_reminder
+schedule a reminder,set_reminder
+schedule a,set_reminder
+schedule reminder,set_reminder
+schedule a reminder for me,set_reminder
+stop,stop_action
+could you stop,stop_action
+cancel,stop_action
+stop that,stop_action
+can you stop that,stop_action
+stop that now,stop_action
+cancel that,stop_action
+never mind,stop_action
+stop please,stop_action
+hey stop please,stop_action
+could you stop please,stop_action
+i didn't mean that,stop_action
+i didn't that mean,stop_action
+i didn't mean that right now,stop_action
+i mean that,stop_action
+abort,stop_action
+hey abort,stop_action
+cancel the action,stop_action
+cancel the,stop_action
+cancel action the,stop_action
+cancel action,stop_action
+stop what you are doing,stop_action
+stop what are doing,stop_action
+stop what you are doing right now,stop_action
+stop what you are doing quickly,stop_action
+hello,greeting
+can you hello,greeting
+hello now,greeting
+hi,greeting
+hi quickly,greeting
+hey,greeting
+hey quickly,greeting
+hey hey,greeting
+i want to hey,greeting
+good morning,greeting
+good morning please,greeting
+good evening,greeting
+good evening for me,greeting
+how are you,greeting
+please how are you,greeting
+are you,greeting
+how you,greeting
+what's up,greeting
+please what's up,greeting
+good afternoon,greeting
+could you good afternoon,greeting
+hi there,greeting
+can you hi there,greeting
+just hi there,greeting
+hi there right now,greeting
+hello care assistant,greeting
+could you hello care assistant,greeting
+just hello care assistant,greeting
+thank you,thanks
+please thank you,thanks
+could you thank you,thanks
+thanks,thanks
+thanks now,thanks
+thank you so much,thanks
+you so much,thanks
+thank you so,thanks
+thank you so much for me,thanks
+i appreciate it,thanks
+i appreciate it quickly,thanks
+i it appreciate,thanks
+i appreciate it now,thanks
+that was helpful,thanks
+that was,thanks
+was that helpful,thanks
+you're great,thanks
+could you you're great,thanks
+please you're great,thanks
+well done,thanks
+well done quickly,thanks
+just well done,thanks
+good job,thanks
+thanks a lot,thanks
+thanks a lot right now,thanks
+a thanks lot,thanks
+thanks a lot now,thanks
+you did well,thanks
+did you well,thanks
+you well did,thanks
+can you you did well,thanks

@@ -1,0 +1,151 @@
+text,intent
+open youtube,open_app
+launch youtube,open_app
+play youtube,open_app
+open youtube please,open_app
+can you open youtube,open_app
+start youtube,open_app
+go to youtube,open_app
+open youtube for me,open_app
+i want to watch youtube,open_app
+take me to youtube,open_app
+play a video,play_video
+play some video,play_video
+play a youtube video,play_video
+play video please,play_video
+i want to watch a video,play_video
+play something on youtube,play_video
+show me a video,play_video
+can you play a video,play_video
+play any video,play_video
+start playing a video,play_video
+set alarm for 7am,set_alarm
+set an alarm,set_alarm
+wake me up at 7,set_alarm
+set alarm 8 am,set_alarm
+alarm at 6 in the morning,set_alarm
+create an alarm,set_alarm
+i need an alarm for tomorrow,set_alarm
+set morning alarm,set_alarm
+put alarm for 9,set_alarm
+remind me to wake up at 7,set_alarm
+remind me to take medicine,medicine_reminder
+medicine reminder please,medicine_reminder
+did i take my medicine,medicine_reminder
+when is my medicine,medicine_reminder
+medicine time,medicine_reminder
+remind me about my pills,medicine_reminder
+have i taken my medication,medicine_reminder
+medicine schedule,medicine_reminder
+what time is my medicine,medicine_reminder
+pill reminder,medicine_reminder
+what time is it,check_time
+tell me the time,check_time
+current time,check_time
+what is the time right now,check_time
+can you tell me the time,check_time
+time please,check_time
+what time,check_time
+give me the time,check_time
+what's the time,check_time
+do you know the time,check_time
+what is today's date,check_date
+tell me the date,check_date
+what day is it,check_date
+today's date,check_date
+current date,check_date
+what is the date today,check_date
+which day is today,check_date
+date please,check_date
+tell me today's date,check_date
+what month is it,check_date
+what is the weather,check_weather
+how is the weather today,check_weather
+weather today,check_weather
+will it rain today,check_weather
+is it going to rain,check_weather
+what's the weather like,check_weather
+tell me the weather,check_weather
+how hot is it today,check_weather
+weather forecast,check_weather
+is it cold outside,check_weather
+call my daughter,call_contact
+call my son,call_contact
+make a phone call,call_contact
+call family,call_contact
+i want to call someone,call_contact
+phone my son,call_contact
+call my wife,call_contact
+dial my daughter,call_contact
+call my brother,call_contact
+contact my family,call_contact
+help,emergency
+emergency,emergency
+i need help,emergency
+call for help,emergency
+this is an emergency,emergency
+i fell down,emergency
+i am not feeling well,emergency
+please help me,emergency
+send help,emergency
+i need emergency assistance,emergency
+play music,play_music
+play some music,play_music
+i want to listen to music,play_music
+play a song,play_music
+put on some music,play_music
+start music,play_music
+play relaxing music,play_music
+can you play music,play_music
+music please,play_music
+i want to hear music,play_music
+do i have internet,check_internet
+is internet working,check_internet
+check my internet,check_internet
+am i connected,check_internet
+is wifi on,check_internet
+do we have internet connection,check_internet
+is the internet available,check_internet
+check connection,check_internet
+am i online,check_internet
+internet status,check_internet
+set a reminder,set_reminder
+remind me,set_reminder
+create a reminder,set_reminder
+i need a reminder,set_reminder
+set reminder please,set_reminder
+add a reminder,set_reminder
+remind me later,set_reminder
+can you remind me,set_reminder
+put a reminder,set_reminder
+schedule a reminder,set_reminder
+stop,stop_action
+cancel,stop_action
+stop that,stop_action
+cancel that,stop_action
+never mind,stop_action
+stop please,stop_action
+i didn't mean that,stop_action
+abort,stop_action
+cancel the action,stop_action
+stop what you are doing,stop_action
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+how are you,greeting
+what's up,greeting
+good afternoon,greeting
+hi there,greeting
+hello care assistant,greeting
+thank you,thanks
+thanks,thanks
+thank you so much,thanks
+i appreciate it,thanks
+that was helpful,thanks
+you're great,thanks
+well done,thanks
+good job,thanks
+thanks a lot,thanks
+you did well,thanks
